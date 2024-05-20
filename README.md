@@ -109,14 +109,14 @@
 <h2 id="usage">Usage</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/seattle-house-prices-analysis.git
-cd seattle-house-prices-analysis</code></pre>
+        <pre><code>git clone https://github.com/sailikhitha07/House_Price_Prediction_and_EDA.git
+cd House_Price_Prediction_and_EDA</code></pre>
     </li>
     <li>Install the required dependencies:
         <pre><code>pip install -r requirements.txt</code></pre>
     </li>
     <li>Run the analysis:
-        <p>Open the Jupyter notebook <code>house_prices_analysis.ipynb</code> and run the cells to execute the analysis step-by-step.</p>
+        <p>Open the Jupyter notebook <code>House_Price_Prediction.ipynb</code> and run the cells to execute the analysis step-by-step.</p>
     </li>
 </ol>
 
